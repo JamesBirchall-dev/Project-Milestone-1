@@ -1,0 +1,6 @@
+body {
+    background-image: url("../img/vietnam.jpg") !important;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
